@@ -1,4 +1,4 @@
-Javascript new02
+Javascript new03
 Brendon eich
 earlier livescript> netscape+sun>javascript
 make static into dynamic webpages
